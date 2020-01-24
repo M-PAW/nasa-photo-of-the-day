@@ -1,5 +1,7 @@
-body {
-  background-image: url("https://api.nasa.gov/planetary/apod?api_key=1w2dF76DitETVCM4EdskaOLHachcvZkM6re3KTCh/data/hdurl");
+* {
+  margin: 0px;
+  padding: 0px;
+  font-size: 62.5%;
 }
 
 .App {

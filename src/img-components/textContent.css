@@ -1,0 +1,39 @@
+/* h1, h2, h3, p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    z-index: 2;
+    color:red;
+    position: relative;
+}
+
+h1 {
+    font-size: 1.95rem;
+    font-weight: 900;
+    /* top: 10%;
+    left:10%; */
+/* }
+
+.imgTitle {
+    padding: 2% 0;
+    font-size: 1.65rem;;
+}
+
+h2 {
+    font-size: 1.35rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} */
+
+/* h1:target.nth-last-of-type(2) {
+    font-size: 1.75rem;
+} */
+
+/* p {
+    font-size: 0.95rem;
+    line-height: 1.2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} */ 
+
+/* .description h3 {
+    width
+} */

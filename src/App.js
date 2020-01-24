@@ -1,5 +1,6 @@
 import React, {useState, useEffect} from "react";
 import "./App.css";
+import "./img-components/textContent.css";
 import Axios from "axios";
 import Image from "./img-components/Image";
 import "./App.css";
@@ -25,7 +26,7 @@ function App() {
         {/* Read through the instructions in the README.md file to build your NASA
         app! Have fun 🚀! */}
       </p>
-      <h1> NASA Photo of the Day</h1>
+
       <Image data={data}/>
     </div>
   );
